@@ -1,4 +1,4 @@
-# Readme file for cloning primer designer script
+# primer-designer-cloninig
 
 This program designs your cloning primers for traditional cloning with the desired meltig temperature and without unwanted secondary structure.
 
@@ -17,3 +17,4 @@ Chrome with chromedriver
 
 The program opens up two Chrome windows to perform the necessary calculations on NEB's and IDT's websites.
 
+**Author:** Szilvia Kiriakov
